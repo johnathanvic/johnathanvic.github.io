@@ -1,4 +1,4 @@
 ---
-Hello: Welcome to my blog
+Homepage: Welcome to my website, thank you for stopping by!
 ---
 
