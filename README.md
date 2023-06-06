@@ -11,7 +11,7 @@
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
   
-  url: johnathanvic.github.io
+  url: [johnathanvic.github.io](https://johnathanvic.github.io)
 
 </header>
 
