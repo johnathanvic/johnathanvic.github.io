@@ -20,11 +20,11 @@ date: 2023-06-06
 * Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives
 * The Design of Everyday Things
 
-Books I Found Useful
+## Books I Found Useful
+* Steal Like an Artist: 10 Things Nobody Told You About Being Creative
 * Big Feelings: How to Be Okay When Things Are Not Okay
 * You're Not Listening: What You're Missing and Why It Matters
 * Indistractable: How to Control Your Attention and Choose Your Life
-* Steal Like an Artist: 10 Things Nobody Told You About Being Creative
 * The Craft of Scientific Writing
 
 [My Goodreads]{https://www.goodreads.com/user/show/117603470-johnathan}
