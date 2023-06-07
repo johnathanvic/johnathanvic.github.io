@@ -26,3 +26,5 @@ Books I Found Useful
 * Indistractable: How to Control Your Attention and Choose Your Life
 * Steal Like an Artist: 10 Things Nobody Told You About Being Creative
 * The Craft of Scientific Writing
+
+[My Goodreads]{https://www.goodreads.com/user/show/117603470-johnathan}
