@@ -31,9 +31,8 @@ date: 2023-06-06
 
 
 ## The Sociological Imagination 
-This book has been the most insightful book I have read and - if it did not read as a textbook - would be my most highly reccomended book. It has equipped me with a framework to think critically about the relationship between the individual and society. 
-
-This idea is prevalent in other books in more accessable forms, such as the impact of having a Malcom Gladwell's example in Outliers of successful hockey players disport January birthdays.
+This book has been the most insightful book I have read and - if it did not read as an old textbook - would be my most highly reccomended book. It has equipped me with a framework to think critically about the relationship between the individual and society. To have a "Sociological Imagination" is to be able to contextualize the troubles of individuals within the issues of society and consider alternative conditions. 
+<!--These ideas are prevalent in other books in more accessable forms, such as the impact of having a Malcom Gladwell's example in Outliers of successful hockey players disport January birthdays.-->
 
 
 ### Quotes
