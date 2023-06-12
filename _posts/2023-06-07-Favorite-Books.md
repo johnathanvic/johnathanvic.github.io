@@ -12,8 +12,8 @@ date: 2023-06-06
 * Born a Crime: Stories From a South African Childhood
 
 ## Books I Found Insightful
+* [The Sociological Imagination](#the_sociological_imagination)
 * The Signal and the Noise: Why So Many Predictions Fail - But Some Don't
-* The Sociological Imagination
 * Thinking Fast and Slow
 * Ten Lessons for a Post-Pandemic World
 * In Defense of a Liberal Education
@@ -30,7 +30,8 @@ date: 2023-06-06
 [My Goodreads]{https://www.goodreads.com/user/show/117603470-johnathan}
 
 
-Sociological Imagination Quotes
+## The Sociological Imagination 
+### Quotes
 On Critical Thinking and The Sociological Imagination
 * "When a society is industrialized, a peasant becomes a worker, a feudal lord is liquidated or becomes a businessman. When classes rise or fall a man is employed or unemployed; when the rate of investment goes up or down, a man takes new heart of goes broke. When wars happen, an insurance salesman becomes a rocket launcher; a store clerk, a radar ma; a wife lives alone; a child grows up without a father. Neither the life of an individual nor the history of a society can be understood without understanding other" (p. 3).
 * "Yet men do not usually define the roubles they endure in terms of historical change and institutional contradiction. The well-being they enjoy, they do not usually impute to the big ups and downs of the societies in which they live. Seldom aware of the intricate connection between the patterns of their own lives and the course of world history, ordinary men do not usually know what this connection means for the kinds of men they are becoming and for the kinds of history-making in which they take part" (p 4).
