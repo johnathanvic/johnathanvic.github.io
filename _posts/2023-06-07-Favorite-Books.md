@@ -12,7 +12,7 @@ date: 2023-06-06
 * Born a Crime: Stories From a South African Childhood
 
 ## Books I Found Insightful
-* [The Sociological Imagination](#the_sociological_imagination)
+* [The Sociological Imagination](#the-sociological-imagination)
 * The Signal and the Noise: Why So Many Predictions Fail - But Some Don't
 * Thinking Fast and Slow
 * Ten Lessons for a Post-Pandemic World
