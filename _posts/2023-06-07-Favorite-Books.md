@@ -27,7 +27,7 @@ date: 2023-06-06
 * Indistractable: How to Control Your Attention and Choose Your Life
 * The Craft of Scientific Writing
 
-[My Goodreads]{https://www.goodreads.com/user/show/117603470-johnathan}
+[My Goodreads] {https://www.goodreads.com/user/show/117603470-johnathan}
 
 
 ## The Sociological Imagination 
