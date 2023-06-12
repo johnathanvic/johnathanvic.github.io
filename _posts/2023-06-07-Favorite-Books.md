@@ -35,7 +35,7 @@ This book has been the most insightful book I have read and - if it did not read
 <!--These ideas are prevalent in other books in more accessable forms, such as the impact of having a Malcom Gladwell's example in Outliers of successful hockey players disport January birthdays.-->
 
 
-### Quotes
+### Favorite Quotes
 On Critical Thinking and The Sociological Imagination
 * "When, in a city of 100,000, only one man is unemployed, that is his personal trouble, and for its relief we properly look to the character of the man, his skills, and his immediate opportunities. But when in a nation of 50 million employees, 15 million men are unemployed, that is an issue, and we may not hope to find its solution within the range of opportunities open to any one individual. The very structure of opportunities has collapsed. Both the correct statement of the problem and the range of possible solutions require us to consider the economic and political institutions of the society, and not merely the personal situation and character of a scatter of individuals" (p 9). 
 * "When a society is industrialized, a peasant becomes a worker, a feudal lord is liquidated or becomes a businessman. When classes rise or fall a man is employed or unemployed; when the rate of investment goes up or down, a man takes new heart of goes broke. When wars happen, an insurance salesman becomes a rocket launcher; a store clerk, a radar ma; a wife lives alone; a child grows up without a father. Neither the life of an individual nor the history of a society can be understood without understanding other" (p. 3).
