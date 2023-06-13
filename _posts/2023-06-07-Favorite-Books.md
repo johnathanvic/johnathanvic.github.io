@@ -5,6 +5,8 @@ date: 2023-06-06
 
 # My Favorite Books
 
+[My Goodreads](https://www.goodreads.com/user/show/117603470-johnathan)
+
 ## Books I Think Everyone Should Read
 * Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions
 * All We Can Save: Truth, Courage, and Solutions for the Climate Crisis
@@ -26,8 +28,6 @@ date: 2023-06-06
 * You're Not Listening: What You're Missing and Why It Matters
 * Indistractable: How to Control Your Attention and Choose Your Life
 * The Craft of Scientific Writing
-
-[My Goodreads](https://www.goodreads.com/user/show/117603470-johnathan)
 
 
 ## The Sociological Imagination 
@@ -55,3 +55,6 @@ On Science
 The modern esteem for science has long been merely assumed, but now the technological ethos and the kind of engineering imagination associated with science are more likely to be frightening and ambiguous than hopeful and progressive. Of course this is not all there is to 'science/ but it is feared that this could become all that there is to it. The felt need to reappraise physical science reflects the need for a new common denominator. It is the human meaning and the social role of science, its military and commercial issue, its political significance that are undergoing confused re-appraisal. Scientific developments of weaponry may lead to the ‘necessity’ for world political rearrangements—but such ‘necessity’ is not felt to be solvable by physical science itself.
 
 Much that has passed for ‘science’ is now felt to be dubious philosophy; much that is held to be ‘real science’ is often felt to provide only confused fragments of the realities among which men live. Men of science, it is widely felt, no longer try to picture reality as a whole or to present a true outline of human destiny. Moreover, ‘science’ seems to many less a creative ethos and a manner of orientation than a set of Science Machines, operated by technicians and controlled by economic and military men who neither embody nor understand science as ethos and orientation. In the meantime, philosophers who speak in the name of science often transform it into ‘scientism,’ making out its experience to be identical with human experience, and claiming that only by its method can the problems of life be solved. With all this, many cultural workmen have come to feel that ‘science’ is a false and pretentious Messiah, or at the very least a highly ambiguous element in modern civilization" (p 15-16)
+
+Other Quotes by C. Wright Mills
+* <!-- Consent of men, many among us have fallen prey to entertainment industrial complex, marketing industrial complex, exploit at sub-consious level without consent passive consent -->
